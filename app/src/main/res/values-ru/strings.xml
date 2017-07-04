@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProvectusTest</string>
+    <string name="list">Список пользователей</string>
+    <string name="state">штат:</string>
+    <string name="street">улица:</string>
+    <string name="city">город:</string>
+    <string name="code">индекс:</string>
+    <string name="phone">тел. номер:</string>
+    <string name="title_loading">Подождите, данные загружаются..</string>
+
+</resources>

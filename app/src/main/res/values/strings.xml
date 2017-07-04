@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProvectusTest</string>
+    <string name="list">List of users</string>
+    <string name="state">state:</string>
+    <string name="city">city:</string>
+    <string name="street">street:</string>
+    <string name="phone">phone:</string>
+    <string name="code">code:</string>
+    <string name="title_loading">wait for data loading</string>
+
+</resources>
